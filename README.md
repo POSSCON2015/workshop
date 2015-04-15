@@ -10,7 +10,7 @@ In this workshop you will learn how to leverage GitHub to collaborate with other
   * Emoji
   * Crosslinking
 4. Creating a Fork
-5. Cloning the Repository
+~~5. Cloning the Repository~~
 6. Creating a Branch
 7. Adding a File
 8. Committing the File
