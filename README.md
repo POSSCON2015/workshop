@@ -14,6 +14,6 @@ In this workshop you will learn how to leverage GitHub to collaborate with other
 6. Creating a Branch
 7. Adding a File
 8. Committing the File
-9. Pushing Your Changes
+9. ~~Pushing Your Changes~~
 10. Creating a Pull Request
 11. Collaborating with Others
